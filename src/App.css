@@ -7,6 +7,40 @@
   pointer-events: none;
 }
 
+/* amar nejer css style */
+
+.person{
+  background-color: darkkhaki;
+  padding:10px;
+  margin:20px;
+
+  border-radius: 20px;
+  border:darkblue solid;
+}
+
+.friend{
+  background-color:cyan;
+  padding:10px;
+  margin:20px;
+ 
+  border-radius: 20px;
+  border:darkblue solid;
+}
+
+/* button style */
+button{
+  margin-left: 10px;
+  padding:5px 8px 5px 8px;
+  color:red;
+  border-radius: 15px;
+  font-size: 20px;
+  background-color: rgb(143, 245, 245);
+}
+.btn{
+  margin-left: 30px;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
